@@ -1,6 +1,6 @@
 ﻿# Final Project Repository of CS505043 (Fall 2018)
 
-Notes:
+## Notes:
 
  - Only team leader submits files to this repository.
  - The filename must be in format as: *MSSV1_MSSV2_MSSV3.zip* (ZIP/TAR/GZ  only)
