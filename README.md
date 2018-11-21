@@ -7,3 +7,12 @@ Notes:
  - The submitted file includes: source code, documents, and README.
  - The submission must be made by **Dec 16, 2018**.
  - This repository will be set to *PRIVATE* after **Dec 17, 2018**.
+
+ ## Commands
+Some useful commands:
+
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin https://github.com/duonghuuphuc/cs505043-fall2018.git
+    git push -u origin master
