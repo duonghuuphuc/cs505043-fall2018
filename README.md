@@ -12,7 +12,7 @@ Notes:
 Some useful commands:
 
     git init
-    git add README.md
-    git commit -m "first commit"
+    git add MSSV1_MSSV2_MSSV3.zip
+    git commit -m "MSSV1"
     git remote add origin https://github.com/duonghuuphuc/cs505043-fall2018.git
     git push -u origin master
